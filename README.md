@@ -4,7 +4,7 @@ Slightly modified Docker image build of [dependabot-gitlab](https://gitlab.com/d
 
 ## Available tags
 
-See <https://hub.docker.com/r/eidottermihi/dependabot-gitlab-openshift/tags>
+See <https://hub.docker.com/r/itatm/dependabot-gitlab-openshift/tags>
 
 ## Documentation
 
