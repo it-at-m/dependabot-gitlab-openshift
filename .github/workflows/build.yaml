@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        tag: ["latest", "0.32.0"]
+        tag: ["latest", "0.34.0", "0.33.1"]
     steps:
       - uses: actions/checkout@v3
       - name: Set up QEMU
