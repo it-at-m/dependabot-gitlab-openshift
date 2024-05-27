@@ -1,3 +1,7 @@
+# NOTE
+
+**This project is archived and therefore no longer maintained.**
+
 # dependabot-gitlab-openshift
 
 Slightly modified Docker image build of [dependabot-gitlab](https://gitlab.com/dependabot-gitlab/dependabot) to allow running the image in OpenShift.
